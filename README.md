@@ -33,6 +33,6 @@ A URL will be created in Heroku where we can use it online
 Heroku URL: https://fish-predict-ml4.herokuapp.com
 
 Contribution:
-Vineth Kumar Rajendran
+Nidhi Thakur
 
 contact: nidhithakuravr@gmail.com
