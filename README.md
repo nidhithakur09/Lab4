@@ -35,6 +35,6 @@ Here we are using Linear Regression model to find the type of fish using it's he
 Heroku URL: https://fish-predict-ml4.herokuapp.com
 
 ## Contribution:
-Vineth Kumar Rajendran
-### contact: vinethkumar2@gmail.com
+Nidhithakur
+### contact: nidhithakuravr@gmail.com
 
